@@ -1,0 +1,31 @@
+.bg-black {
+  background: #000;
+  color: #fff; }
+
+#main-header img {
+  width: 90%;
+  height: 90%; }
+
+#main-header .port-item {
+  width: 30%; }
+  #main-header .port-item .fa {
+    font-size: 2em; }
+
+#main-header .port-item:hover {
+  opacity: 0.8;
+  cursor: pointer; }
+
+@media (min-width: 1199px) {
+  .port-item {
+    padding: 3em !important; } }
+
+  #main-header  .col{
+    margin-top: -36px;
+    }
+
+    #dalili img{
+      margin-left:-13px;
+      margin-top: -47px;
+      margin-bottom: -45px;
+      
+    }
